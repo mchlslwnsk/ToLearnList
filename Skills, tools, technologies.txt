@@ -1,7 +1,7 @@
     - Programing languages: JAVA, C#, Python, SQL, PHP, JavaScript, HTML, HTML5
     - Developer tools: Maven, Eclipse, Firebug, IntelliJ IDEA, Gerrit Code Review, CodeCollaborator, SOAP UI
     - Control verion: SVN, Git
-    - Tools for testing: JMeter, Grinder
+    - Tools for testing: JMeter, Grinder, Selenium
     - SQL: SQLDeveloper, Toad, Squirrel
     - Tools for reports: Jasper Reports, iReports, SAP Crystal Reports
     - Platforms and OS tools: Liferay, Nagios, Wireshark
