@@ -1,0 +1,14 @@
+    - Programing languages: JAVA, C#, Python, SQL, PHP, JavaScript, HTML, HTML5
+    - Developer tools: Maven, Eclipse, Firebug, IntelliJ IDEA, Gerrit Code Review, CodeCollaborator, SOAP UI
+    - Control verion: SVN, Git
+    - Tools for testing: JMeter, Grinder
+    - SQL: SQLDeveloper, Toad, Squirrel
+    - Tools for reports: Jasper Reports, iReports, SAP Crystal Reports
+    - Platforms and OS tools: Liferay, Nagios, Wireshark
+    - Technologies: JSP, jQuery, CSS, XSD, XML, SOAP, JSF,  FreeMarker, Velocity, OpenSSL
+    - Frameworks: .NET, Flex, DOJO, Spring, Hibernate, Struts, Vaadin, Tiles, Bootstrap, I/MyBatis, J2EE, Angular
+    - HTTP servers: Apache, Ngix, Light httpd, Varnish
+    - Application servers : JBoss, JRun, Tomcat, Jetty, Oracle Weblogic
+    - Databases: Oracle DB, MS SQL Server, PostgreSQL, Informix DB, Apache Lucene, Apache JackRabbit
+    - Project tools: Enterprise Architect, Modelio
+    - Tools for maintaining: Trac, Jira, Microsoft Project, ProjectLibre
