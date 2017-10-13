@@ -1,4 +1,4 @@
-    - Programing languages: JAVA, C#, Python, SQL, PHP, JavaScript, HTML, HTML5
+    - Programing languages: JAVA, C#, Python, SQL, PHP, JavaScript, HTML
     - Developer tools: Maven, Eclipse, Firebug, IntelliJ IDEA, Gerrit Code Review, CodeCollaborator, SOAP UI
     - Control verion: SVN, Git
     - Tools for testing: JMeter, Grinder, Selenium
